@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container_1{
+    background-color: #eee;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.container_2{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.container_3{
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
+.container_3 img {
+    width: 900px;
+    height: 550px;
+    margin: 0 auto;
+    display: block;
+}
+
+.container_3 p{
+    text-align: center;
+    margin: 15px 0;
+    padding-bottom: 15px;
+    font-size: 18px;
+}
+
+.container_4{
+    width: 550px;
+    margin: 0 auto;
+}
+
+.container_4 h3{
+    text-align: center;
+}
+
+.container_4 ul li{
+    margin: 12px;
+    font-size: 18px;
+}
+
+.container_4 i{
+    font-size: 18px;
+}
+
+.F_sarlavha{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 35px;
+}
